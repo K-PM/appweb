@@ -1,0 +1,13 @@
+* {
+  box-sizing:border-box;
+  overflow-x:hidden ;
+  scroll-behavior: smooth;
+}
+html {  
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin: 0;
+}

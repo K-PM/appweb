@@ -1,0 +1,11 @@
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-left: 30%;
+}
+Label{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-right: 15px;
+}
+input{
+    border-radius: 10px;
+}
